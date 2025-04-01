@@ -137,7 +137,7 @@ st.markdown("""
 
 ## Contribution
 
-Feel free to contribute by submitting issues or pull requests. If you have any suggestions or encounter any bugs, please open an issue on the [GitHub repository](https://github.com/your-repo-link).
+Feel free to contribute by submitting issues or pull requests. If you have any suggestions or encounter any bugs.
 
 ## License
 
